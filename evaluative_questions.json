@@ -1,0 +1,43 @@
+[
+  {
+    "question": "What is the theme and message of the poem?",
+    "choice1": "The message of the poem is that Black people should rise and defeat all forms of discrimination based on race.",
+    "choice2": "Although people are judging the speaker, he still rises with his own feet to face them.",
+    "choice3": "The word I rise depicts that the author wants revenge on those people that judge him.",
+    "choice4": "It talks about the books which are being judged by others but still some people acknowledge it as a very important thing to learn from so it still rises.",
+    "answer": 1
+  },
+  {
+    "question": "Why do you think the has title been repeated so many times throughout the poem?",
+    "choice1": "This is to make a rhythm to the poem.",
+    "choice2": "It emphasizes the main point that is being described in the text.",
+    "choice3": "This creates an atmosphere, enables the harmony of the rhyme scheme & states & makes clear the theme of the poem.",
+    "choice4": "So that the reader will make a point that the author clearly wants revenge.",
+    "answer": 3
+  },
+  {
+    "question": "How does the repetition of the phrase, “I rise,” affect the tone and overall impact of the poem?",
+    "choice1": "It adds a touch of irony on which it contrasts the challenges that the author has been through a lot.",
+    "choice2": "There is a great feeling of empowerment and resilience which is evident throughout the poem.",
+    "choice3": "It creates a tone that is somber on which the hardships faced by the speaker are being highlighted.",
+    "choice4": "The various forms of this refrain give the poem a determined and triumphant tone. The Repetition of a phrase gives it emphasis, and that is exactly what the poet/speaker is doing here.",
+    "answer": 4
+  },
+  
+  {
+    "question": "The title’s overall tone is:",
+    "choice1": "Proud and Hopeful",
+    "choice2": "Sad and melancholic",
+    "choice3": "Uncertain and confused",
+    "choice4": "Defiant and angry",
+    "answer": 1
+  },
+  {
+    "question": "Consider the literal and figurative meanings of the words “I rise” in the title. Which meaning is conveyed by the poem?",
+    "choice1": "Literally, it means physically getting up; figuratively, it represents lifting one’s spirits and aspiration.",
+    "choice2": "Literally, it denotes climbing a mountain; figuratively, it implies reaching for the stars.",
+    "choice3": "Literally, it means ascending from a lower position; figuratively, it signifies overcoming challenges.",
+    "choice4": "Literally, it refers to morning awaken; figuratively, it symbolizes hope and joy.",
+    "answer": 3
+  }
+]

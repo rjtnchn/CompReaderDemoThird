@@ -1,0 +1,42 @@
+[
+  {
+    "question": "Who are the main characters in the poem?",
+    "choice1": "The rock n rolls band.",
+    "choice2": "The children who want to form a rock n roll band.",
+    "choice3": "The million fans and the children.",
+    "choice4": "The seven kids in the sand.",
+    "answer": 2
+  },
+  {
+    "question": "What do the children in the poem want to become?",
+    "choice1": "They want to be a traveler and travel around the world.",
+    "choice2": "They want to be famous and make a million fans.",
+    "choice3": "They want to become a millionaire as a band.",
+    "choice4": "The children want to become rock n roll musicians.",
+    "answer": 4
+  },
+  {
+    "question": "What instruments do they mention in the poem?",
+    "choice1": "They always mention of rock n roll",
+    "choice2": "They mention instruments like homemade guitar and drums of potato chip cans.",
+    "choice3": "It is stated that pails and jars are what the children use.",
+    "choice4": "There is no instrument that is mentioned in the poem.",
+    "answer": 2
+  },
+  {
+    "question": "What is the central theme of the poem?",
+    "choice1": "The challenges of fame",
+    "choice2": "The power of music",
+    "choice3": "The joys of childhood imagination",
+    "choice4": "The longing for success",
+    "answer": 3
+  },
+  {
+    "question": "What emotion could be associated with the poem?",
+    "choice1": "Grief and sorrow",
+    "choice2": "Joy and excitement",
+    "choice3": "Calmness and tranquility",
+    "choice4": "Boredom and monotony",
+    "answer": 2
+  }
+]

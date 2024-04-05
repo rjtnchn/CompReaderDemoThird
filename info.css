@@ -1,0 +1,105 @@
+
+* {
+    margin: 0;
+    padding: 0;
+   font-family:  "Zilla Slab", serif;
+
+  }
+  
+  body {
+    margin: 0; /* Remove default body margin for better centering */
+    font-family: Arial, sans-serif; /* Set a default font family */
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+    background-image: url(images/bg\ 2.jpg);
+    background-size: cover;
+    height: 100vh;
+
+  }
+  
+  h2, p, ol, li{
+    color: burlywood;
+    text-shadow: 2px 2px 10px rgb(0, 0, 0);
+  }
+
+  h5 {
+    background-color: rgb(232, 202, 126);
+    padding: 10px;
+    border-radius: 5px;
+    margin-bottom: 30px;
+
+  }
+
+  p, ol, li {
+font-size: 1.1rem;
+text-shadow: 2px 1px 10px rgb(0, 0, 0);
+
+  }
+
+  .container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+  }
+  .main{
+    justify-content: center;
+    align-items: center;
+    column-gap: 2.3rem;
+    background-image: url(images/poem\ bg.jpg);
+    background-size: cover;
+    background-position: 50%;
+    padding: 2rem;
+    border-radius: 1rem;
+    border: solid 0.5rem rgba(163, 62, 246, 0.377);
+    width: 50vw;
+    height: auto;
+    margin-top: 2rem;
+  }
+
+
+  .btn{
+    margin-top: 2rem;
+    width: 5rem;
+    background-image: url(images/poem.jpg);
+    background-position: 60%;      
+    border-color: blueviolet;
+    border-radius: 0.3rem;
+    font-size: 1rem;
+    color: burlywood;
+    filter: contrast(180%);
+    text-shadow: 6px 6px 6px rgba(93, 21, 22, 0.929);
+      }
+
+      h2 {
+        text-shadow:  6px 6px 6px rgba(171, 8, 10, 0.929);
+        text-align: center;
+      }
+      
+     p, ol, li {
+        text-align: start;
+        font-size: 1rem;
+        color: rgb(253, 210, 153);
+        filter: contrast(180%);
+        text-shadow:  6px 6px 6px rgba(171, 8, 10, 0.929);
+      }
+      
+  
+      @media (max-width: 900px) {
+
+        .main{
+          display: flex;
+          flex-direction: column;
+          flex-wrap: wrap;
+          width: 80vw;
+          margin-top: 2rem;
+        }
+      
+        h1 {
+          font-size: medium;
+        }
+      
+      
+      
+        }

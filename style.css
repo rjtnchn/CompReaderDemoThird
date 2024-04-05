@@ -1,0 +1,158 @@
+:root {
+  background-color: #000000;
+  font-size: 62.5%;
+}
+
+* {
+  box-sizing: border-box;
+  font-family:  "Zilla Slab", serif;
+  padding: 0;
+  margin: 0;
+  color: #333;
+}
+
+body{
+  background-position: center;
+  height: 100vh;
+  background-image: url("images/bg\ 1.jpg");
+  background-size: cover;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100vw;
+height: 100vh;
+
+}
+
+
+h1,
+h2,
+h3,
+h4,
+h5 {
+  margin-bottom: 1rem;
+}
+
+h1 {
+  font: 7.0rem  "Zilla Slab", serif;
+  font-weight: 700;
+  color: rgb(253, 210, 153);
+  text-shadow: 6px 6px 6px rgba(93, 21, 22, 0.929);
+  margin-bottom: 10rem;
+ 
+}
+
+h1 > span {
+  font-size: 2.4rem;
+  font-weight: 500;
+}
+
+h2 {
+  font-size: 2.4rem;
+  margin-bottom: 4rem;
+  font-weight: 700;
+}
+
+h3 {
+  font-size: 2.8rem;
+  font-weight: 500;
+}
+
+/* Utilities */
+.container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+
+}
+.main {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-image: url(images/home.jpg);
+  background-size: cover;
+  border-radius: 2rem;
+  border: solid 0.5rem rgba(73, 2, 73, 0.536);
+  height: 60rem;
+  width: 50vw;
+  min-width: 50vw;
+  margin: 0 auto;
+  padding: 2rem;
+}
+
+.container > * {
+  width: 100%;
+}
+
+.flex-column {
+  display: flex;
+  flex-direction: column;
+}
+
+.flex-center {
+  justify-content: center;
+  align-items: center;
+}
+
+.justify-center {
+  justify-content: center;
+}
+
+.text-center {
+  text-align: center;
+}
+
+.hidden {
+  display: none;
+}
+
+/* Buttons */
+.btn {
+  font: 2.0rem "Zilla Slab", serif;
+  font-style: italic;
+  padding: 1.0rem 0;
+  width: 20rem;
+  text-align: center;
+  border: 0.1rem solid #923fd2;
+  border-radius: 0.4rem;
+  margin-bottom: 2rem;
+  text-decoration: none;
+  color:  rgb(253, 210, 153);
+  background-color: rgba(55, 10, 83, 0.601);
+
+}
+
+.btn:hover {
+  cursor: pointer;
+  box-shadow: 0 0.4rem 1.4rem 0 rgba(144, 24, 62, 0.803);
+  transform: translateY(-0.1rem);
+  transition: transform 150ms;
+}
+
+.btn[disabled]:hover {
+  cursor: not-allowed;
+  box-shadow: none;
+  transform: none;
+}
+
+
+@media (max-width: 450px) {
+
+  .main{
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    width: 90vw;
+    margin-top: 2rem;
+   
+  }
+
+  h1 {
+    font-size: 4rem;
+  }
+
+
+
+  }
+

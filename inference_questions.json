@@ -1,0 +1,42 @@
+[
+  {
+    "question": "What mood or feeling might the poem evoke?",
+    "choice1": "Anger",
+    "choice2": "Sadness",
+    "choice3": "Excitement",
+    "choice4": "Peacefulness",
+    "answer": 4
+  },
+  {
+    "question": "What is the central theme of the poem?",
+    "choice1": "Tranquility and serenity of the night",
+    "choice2": "Nature",
+    "choice3": "The imagery of tired roses, fragrant mignotte, and swaying lilies",
+    "choice4": "Love",
+    "answer": 1
+  },
+  {
+    "question": "How does the poem conclude?",
+    "choice1": "With a surprising twist",
+    "choice2": "With a resolution to a conflict",
+    "choice3": "With an open-ended question",
+    "choice4": "With a reflection on the theme",
+    "answer": 3
+  },
+  {
+    "question": "What is the poet’s attitude towards the subject matter?",
+    "choice1": "Indifferent",
+    "choice2": "Enthusiastic",
+    "choice3": "Critical",
+    "choice4": "Ambiguous",
+    "answer": 2
+  },
+  {
+    "question": "What is the author's purpose in writing the poem?",
+    "choice1": "To entertain",
+    "choice2": "To evoke emotions",
+    "choice3": "To persuade",
+    "choice4": "To inform",
+    "answer": 2
+  }
+]
