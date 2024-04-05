@@ -1,42 +1,42 @@
 [
   {
-    "question": "Who are the main characters in the poem?",
-    "choice1": "The rock n rolls band.",
-    "choice2": "The children who want to form a rock n roll band.",
-    "choice3": "The million fans and the children.",
-    "choice4": "The seven kids in the sand.",
+    "question": "The sage was sad because _____.",
+    "choice1": "The house is burning",
+    "choice2": "The pigtail was hanging down his back",
+    "choice3": "The car got stolen",
+    "choice4": "Her mother died",
     "answer": 2
   },
   {
-    "question": "What do the children in the poem want to become?",
-    "choice1": "They want to be a traveler and travel around the world.",
-    "choice2": "They want to be famous and make a million fans.",
-    "choice3": "They want to become a millionaire as a band.",
-    "choice4": "The children want to become rock n roll musicians.",
-    "answer": 4
+    "question": "To change the pigtail’s position, the sage _____.",
+    "choice1": "Twisted and turned in different directions.",
+    "choice2": "Hang his neck",
+    "choice3": "Jump and swim",
+    "choice4": "Run round and round",
+    "answer": 1
   },
   {
-    "question": "What instruments do they mention in the poem?",
-    "choice1": "They always mention of rock n roll",
-    "choice2": "They mention instruments like homemade guitar and drums of potato chip cans.",
-    "choice3": "It is stated that pails and jars are what the children use.",
-    "choice4": "There is no instrument that is mentioned in the poem.",
-    "answer": 2
-  },
-  {
-    "question": "What is the central theme of the poem?",
-    "choice1": "The challenges of fame",
-    "choice2": "The power of music",
-    "choice3": "The joys of childhood imagination",
-    "choice4": "The longing for success",
+    "question": "What is the mood of the poem?",
+    "choice1": "Sad",
+    "choice2": "Happy",
+    "choice3": "Funny",
+    "choice4": "Angry",
     "answer": 3
   },
   {
-    "question": "What emotion could be associated with the poem?",
-    "choice1": "Grief and sorrow",
-    "choice2": "Joy and excitement",
-    "choice3": "Calmness and tranquility",
-    "choice4": "Boredom and monotony",
-    "answer": 2
+    "question": "‘But wondered much and sorrowed more’, What was the sage wondering about?",
+    "choice1": "The sage was wondering about his house",
+    "choice2": "The sage was wondering about his car",
+    "choice3": "The sage was wondering about his pigtail",
+    "choice4": "The sage was wondering about his dress",
+    "answer": 3
+  },
+  {
+    "question": "‘Because it hung behind him’, What did the word ‘it’ refer to?",
+    "choice1": "Sage’s house",
+    "choice2": "Sage’s dress",
+    "choice3": "Sage’s car",
+    "choice4": "Sage’s pigtail",
+    "answer": 4
   }
 ]

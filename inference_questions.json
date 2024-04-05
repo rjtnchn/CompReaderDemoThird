@@ -1,42 +1,42 @@
 [
   {
-    "question": "What mood or feeling might the poem evoke?",
-    "choice1": "Anger",
-    "choice2": "Sadness",
-    "choice3": "Excitement",
-    "choice4": "Peacefulness",
-    "answer": 4
-  },
-  {
-    "question": "What is the central theme of the poem?",
-    "choice1": "Tranquility and serenity of the night",
-    "choice2": "Nature",
-    "choice3": "The imagery of tired roses, fragrant mignotte, and swaying lilies",
-    "choice4": "Love",
+    "question": "What do you think is the theme of the poem?",
+    "choice1": "Notion of barter",
+    "choice2": "Love of money",
+    "choice3": "Sell of Love",
+    "choice4": "Barter’s money",
     "answer": 1
   },
   {
-    "question": "How does the poem conclude?",
-    "choice1": "With a surprising twist",
-    "choice2": "With a resolution to a conflict",
-    "choice3": "With an open-ended question",
-    "choice4": "With a reflection on the theme",
+    "question": "“Eyes that love you, arms that hold”. Who do eyes and arm refer to?",
+    "choice1": "The people who are angry",
+    "choice2": "The people who are sad",
+    "choice3": "The people who are in love",
+    "choice4": "The people who are in debt",
     "answer": 3
   },
   {
-    "question": "What is the poet’s attitude towards the subject matter?",
-    "choice1": "Indifferent",
-    "choice2": "Enthusiastic",
-    "choice3": "Critical",
-    "choice4": "Ambiguous",
-    "answer": 2
+    "question": "Which line expresses the theme of the poem?",
+    "choice1": "Children's faces are like cups",
+    "choice2": "Give all you have been, or could be",
+    "choice3": "Life has a loveliness to sell",
+    "choice4": "Spend all you have",
+    "answer": 3
   },
   {
-    "question": "What is the author's purpose in writing the poem?",
-    "choice1": "To entertain",
-    "choice2": "To evoke emotions",
-    "choice3": "To persuade",
-    "choice4": "To inform",
-    "answer": 2
+    "question": "Why do you think the line ‘Life has loveliness to sell’ has been repeated?",
+    "choice1": "To reinforce the message that the poet wants to send out",
+    "choice2": "To captivate the feelings of the readers",
+    "choice3": "To make people more interested in love",
+    "choice4": "Just because",
+    "answer": 1
+  },
+  {
+    "question": "Why are ‘thoughts’ described as ‘holy’?",
+    "choice1": "Because they are pure thoughts, untained by any negativites",
+    "choice2": "Because you don’t know about the peoples’ real thoughts",
+    "choice3": "Because we assume it is",
+    "choice4": "None of the above",
+    "answer": 1
   }
 ]
